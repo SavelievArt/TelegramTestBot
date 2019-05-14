@@ -2,7 +2,7 @@ from telegram import Bot, Update
 from telegram.ext import Updater, Filters, CommandHandler, MessageHandler
 import os
 import datetime
-telegramToken = "739996565:AAHdVrMZ_nHNCXFRKR0PXm_R7lwZpiVwfnE"
+telegramToken = "PUT YOUR TOKEN"
 
 
 def makeFilename(path, fileInfo):
